@@ -2,7 +2,7 @@
 
 Full-stack developer in the Philippines building fast, polished web apps with **Next.js, React and TypeScript**. I take on freelance projects such as dashboards, booking systems, interactive maps and landing pages, from first mockup to deployed site.
 
-📫 **Open for freelance work.** Email me at [marvin.programming210@gmail.com](mailto:marvin.programming210@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/marvin-alingasa).
+📫 **Open for freelance work.** Email me at [marvin.freelancing210@gmail.com](mailto:marvin.freelancing210@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/marvin-alingasa).
 
 ---
 
